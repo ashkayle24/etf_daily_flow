@@ -1,0 +1,8 @@
+*
+!Report/
+!Report/**
+!Resource/
+!Resource/**
+!Result/
+!Result/**
+!.gitignore
