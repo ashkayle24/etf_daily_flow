@@ -1,0 +1,236 @@
+﻿2026-07-16 07:39:02  ===== 開始執行今日排程任務 =====
+2026-07-16 07:39:02  執行 Run_All.py ...
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+正在連線並下載最新檔案至 Resource 資料夾...
+下載完成：Resource\00981A_ETF-20260716.xlsx
+今日檔案：Resource\00981A_ETF-20260716.xlsx
+前次檔案：Resource\00981A_ETF-20260715.xlsx
+比對完成！持股有變化的個股共有 4 檔。
+結果已匯出至：Result\20260716_00981A.CSV
+正在連線並下載最新檔案至 Resource 資料夾...
+目標網址: https://www.fhtrust.com.tw/api/assetsExcel/ETF23/20260715
+下載完成，已儲存為：Resource\00991A_ETF-20260715.xlsx
+今日檔案：Resource\00991A_ETF-20260715.xlsx
+前次檔案：Resource\00991A_ETF-20260714.xlsx
+比對完成！持股有變化的個股共有 15 檔。
+結果已匯出至：Result\20260716_00991A.CSV
+啟動瀏覽器爬取 00982A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+💾 已將 00982A 今日最新持股 (共 53 筆) 完整儲存至: Resource\00982A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00982A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00982A 與歷史檔案 [00982A_ETF-20260715.xlsx] 相比，共有 3 檔發生變動。
+異動清單已輸出至: Result\20260716_00982A.CSV
+啟動瀏覽器爬取 00980A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+成功抓取到畫面上的節點，總共 49 筆。
+💾 已將 00980A 今日最新持股 (共 48 筆) 完整儲存至: Resource\00980A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00980A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00980A 與歷史檔案 [00980A_ETF-20260715.xlsx] 相比，共有 1 檔發生變動。
+異動清單已輸出至: Result\20260716_00980A.CSV
+啟動瀏覽器爬取 00985A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+成功抓取到畫面上的節點，總共 50 筆。
+💾 已將 00985A 今日最新持股 (共 50 筆) 完整儲存至: Resource\00985A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00985A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00985A 與歷史檔案 [00985A_ETF-20260715.xlsx] 相比，共有 18 檔發生變動。
+異動清單已輸出至: Result\20260716_00985A.CSV
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+正在連線並下載最新檔案至 Resource 資料夾...
+下載完成：Resource\00403A_ETF-20260716.xlsx
+今日檔案：Resource\00403A_ETF-20260716.xlsx
+前次檔案：Resource\00403A_ETF-20260715.xlsx
+比對完成！持股有變化的個股共有 8 檔。
+結果已匯出至：Result\20260716_00403A.CSV
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+正在連線並下載最新檔案至 Resource 資料夾...
+下載完成：Resource\00988A_ETF-20260716.xlsx
+今日檔案：Resource\00988A_ETF-20260716.xlsx
+前次檔案：Resource\00988A_ETF-20260715.xlsx
+比對完成！持股有變化的個股共有 5 檔。
+結果已匯出至：Result\20260716_00988A.CSV
+啟動瀏覽器爬取 00992A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+成功抓取到畫面上的節點，總共 37 筆。
+💾 已將 00992A 今日最新持股 (共 37 筆) 完整儲存至: Resource\00992A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00992A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00992A 與歷史檔案 [00992A_ETF-20260715.xlsx] 相比，共有 2 檔發生變動。
+異動清單已輸出至: Result\20260716_00992A.CSV
+啟動背景瀏覽器爬取 00995A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+成功抓取到畫面上的節點，總共 60 筆。
+💾 已將 00995A 今日最新持股 (共 55 筆) 完整儲存至: Resource\00995A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00995A_ETF-20260714.xlsx (往前回推 2 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+✅ 比對完成！持股無任何異動。
+啟動背景瀏覽器爬取 00987A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+成功抓取到畫面上的節點，總共 115 筆。正在解析資料...
+💾 已將 00987A 今日最新持股 (共 28 筆) 完整儲存至: Resource\00987A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00987A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00987A 與歷史檔案 [00987A_ETF-20260715.xlsx] 相比，共有 3 檔發生變動。
+異動清單已輸出至: Result\20260716_00987A.CSV
+啟動背景瀏覽器爬取 00996A 今日最新資料...
+嘗試尋找並點擊展開按鈕以獲取全部資料...
+✅ 已成功觸發展開機制！等待完整資料渲染...
+成功抓取到畫面上的節點，總共 50 筆。正在解析資料...
+💾 已將 00996A 今日最新持股 (共 50 筆) 完整儲存至: Resource\00996A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00996A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+🎉 比對完成！00996A 與歷史檔案 [00996A_ETF-20260715.xlsx] 相比，共有 3 檔發生變動。
+異動清單已輸出至: Result\20260716_00996A.CSV
+⚡ 啟動 API 極速模式，嘗試抓取今日 (2026-07-16) 網址...
+✅ 成功獲取 API 資料！資料所屬日期為：2026-07-16
+💾 已將 00400A 今日最新持股 (共 58 筆) 完整儲存至: Resource\00400A_ETF-20260716.xlsx
+🔍 智慧偵測：找到最近一個歷史檔案：Resource\00400A_ETF-20260715.xlsx (往前回推 1 天)
+正在讀取歷史檔案進行交叉比對...
+------------------------------------------------------------
+✅ 比對完成！持股無任何異動。
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+D:\tools\stock_Report\.venv\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 3081.TW"}}}
+$3081.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 3131.TW"}}}
+$3131.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3293.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3529.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$5274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6223.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$7751.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$8299.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+【系統提示】開始處理 (20260716) 的資料...
+-> 在 Resource 內找到 11 個不重複檔案，開始讀取...
+-> 在 Result 內找到 10 個不重複的結果檔，開始計算股數差異...
+-> 開始連線抓取近期股價以計算「資金變化」 (這可能需要一點時間)...
+【成功】處理完成！最終結果已儲存至：Report\20260716_ALL_TEST.csv
+========== 正在執行 00981A.py ==========
+========== 00981A.py 執行完成 ==========
+
+========== 正在執行 00991A.py ==========
+========== 00991A.py 執行完成 ==========
+
+========== 正在執行 00982A.py ==========
+========== 00982A.py 執行完成 ==========
+
+========== 正在執行 00980A.py ==========
+========== 00980A.py 執行完成 ==========
+
+========== 正在執行 00985A.py ==========
+========== 00985A.py 執行完成 ==========
+
+========== 正在執行 00403A.py ==========
+========== 00403A.py 執行完成 ==========
+
+========== 正在執行 00988A.py ==========
+========== 00988A.py 執行完成 ==========
+
+========== 正在執行 00992A.py ==========
+========== 00992A.py 執行完成 ==========
+
+========== 正在執行 00995A.py ==========
+========== 00995A.py 執行完成 ==========
+
+========== 正在執行 00987A.py ==========
+========== 00987A.py 執行完成 ==========
+
+========== 正在執行 00996A.py ==========
+========== 00996A.py 執行完成 ==========
+
+========== 正在執行 00400A.py ==========
+========== 00400A.py 執行完成 ==========
+
+========== 正在執行 Count_All_TEST.py ==========
+========== Count_All_TEST.py 執行完成 ==========
+
+2026-07-16 07:41:35  Run_All.py 完成。
+2026-07-16 07:41:35  執行 Trend_Report.py ...
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 3529.TW"}}}
+$3529.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 5274.TW"}}}
+$5274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3081.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3131.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3293.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6223.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$8299.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$7751.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+產生 20260716 趨勢報告...
+【成功】報告已輸出：Report\20260716_趨勢報告.md
+【成功】板塊每日彙總已更新：Report\sector_daily_summary.csv（供儀表板週趨勢圖使用）
+2026-07-16 07:41:58  Trend_Report.py 完成。
+2026-07-16 07:41:58  執行 update_dashboard.py ...
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 3529.TW"}}}
+$3529.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 5274.TW"}}}
+$5274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3081.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3131.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3293.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6223.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$8299.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$3436 JP.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$AMAT US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$BE US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$NOW US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$VECO US.TWO: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$6274.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+$7751.TW: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+[完成] 20260716 已併入儀表板：D:\tools\stock_Report\etf_daily_flow\Dashboard\etf_dashboard.html
+2026-07-16 07:42:22  update_dashboard.py 完成。
+2026-07-16 07:42:22  ===== 今日排程任務結束 =====
